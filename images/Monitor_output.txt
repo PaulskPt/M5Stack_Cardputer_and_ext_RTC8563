@@ -1,0 +1,34 @@
+Thursday 2024-09-19 01h50 utc+1
+Board: M5Stack Cardputer with M5Stack StampS3 and via port A (I2C) connected a M5Stamp RTC (8563)
+
+IDE: Arduino IDE v 2.3.2
+
+Sketch: 2024-09-18_M5Stack_Cardputer_and_ext_RTC8563.ino
+
+Note: this sketch provides 2 pages on the display of the M5Stack Cardputer.
+1) ESP LOC (Local time);  (default)
+2) RTC UTC;
+Page switching is possible by pressing the key <p> on the keyboard of the M5Stack Cardputer.
+
+Monitor output:
+
+Unified RTC example
+External RTC found
+Connecting WiFi
+..........
+WiFi Connected to: <WIFI_SSID>
+IP address: <IP>
+
+Connecting NTP
+...........................
+NTP Connected.
+is_dst(): size of dst_dict = 8
+yr = 2024
+dst_dict[0].year = 2024
+is_dst():
+dst_start1  = 1711846800
+currentTime = 1726707007
+dst_end1    = 1729994400
+is_dst(): return value = 1
+
+ESP32 LOC: 2024/09/19 (Thursday)  01:50:07 dst
