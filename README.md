@@ -2,7 +2,7 @@
 
 Preparations:
 
- Add your WiFi SSID, PASSWORD and PRIMARY NTP SERVER ADDRESS to file secret.h
+ Add your WiFi SSID, PASSWORD, TIMEZONE and PRIMARY NTP SERVER ADDRESS to file secret.h
 
 What this sketch does:
 
