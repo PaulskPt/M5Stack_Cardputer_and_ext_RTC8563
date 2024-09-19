@@ -9,7 +9,7 @@ What this sketch does:
  This arduino sketch provides two pages with date, time and (in the case of ESP32 LOCAL page also daylight saving status ("dst" if inside the daylight saving period of the year)).
 
 
- Page 1 shows: ESP32 LOCAL date, time and dst details;
+ Page 1 (default) shows: ESP32 LOCAL date, time and dst details;
  
  Page 2 shows: external RTC UTC date and time details.
 
