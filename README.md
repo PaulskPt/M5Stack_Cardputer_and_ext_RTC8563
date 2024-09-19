@@ -6,7 +6,7 @@ Preparations:
 
 What this sketch does:
 
- This arduino sketch provides two pages with date, time and (in the case of ESP32 LOCAL page also daylight saving status ("dst" if in daylight saving period of the year)).
+ This arduino sketch provides two pages with date, time and (in the case of ESP32 LOCAL page also daylight saving status ("dst" if inside the daylight saving period of the year)).
 
 
  Page 1 shows: ESP32 LOCAL date, time and dst details;
